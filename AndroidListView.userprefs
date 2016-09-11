@@ -1,7 +1,7 @@
 ﻿<Properties StartupItem="AndroidListView/AndroidListView.csproj">
   <MonoDevelop.Ide.Workbench ActiveDocument="AndroidListView/MainActivity.cs">
     <Files>
-      <File FileName="AndroidListView/MainActivity.cs" Line="21" Column="6" />
+      <File FileName="AndroidListView/MainActivity.cs" Line="19" Column="14" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -9,5 +9,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.AndroidListView AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.192.168.58.101:5555" />
+  <MonoDevelop.Ide.ItemProperties.AndroidListView AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.MonoForAndroid_API_10" />
 </Properties>
